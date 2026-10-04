@@ -30,7 +30,7 @@ Add your API key to `.env`:
 WASAAS_API_KEY=wsa_your_key_here
 ```
 
-Get your API key at [wasaas.org](https://wasaas.org) — free 7-day trial, no credit card.
+Get your API key at [wasaas.org](https://wasaas.org) — plans start at $29/month with a 7-day money-back guarantee.
 
 ---
 

@@ -2,7 +2,9 @@
 
 Official PHP/Laravel SDK for the [Wasaas WhatsApp API](https://wasaas.org).
 
-Send WhatsApp messages, validate numbers, and manage sessions — with a clean PHP interface and a first-class Laravel integration.
+Send WhatsApp messages, validate numbers, and manage sessions — with a clean PHP interface and a first-class Laravel integration. No Meta Business account or app review required: connect a regular WhatsApp number via QR code.
+
+Full endpoint reference (auth, fields, error codes): [wasaas.org/docs](https://wasaas.org/docs?utm_source=github&utm_medium=readme&utm_campaign=wasaas-laravel).
 
 ## Requirements
 
@@ -30,7 +32,7 @@ Add your API key to `.env`:
 WASAAS_API_KEY=wsa_your_key_here
 ```
 
-Get your API key at [wasaas.org](https://wasaas.org) — plans start at $29/month with a 7-day money-back guarantee.
+Get your API key at [wasaas.org](https://wasaas.org/register?utm_source=github&utm_medium=readme&utm_campaign=wasaas-laravel) — start with a 7-day free trial, no credit card required. See [pricing](https://wasaas.org/pricing) for plan limits.
 
 ---
 
